@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-mr-dao/com-mr-dao.iml" filepath="$PROJECT_DIR$/com-mr-dao/com-mr-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-mr-entity/com-mr-entity.iml" filepath="$PROJECT_DIR$/com-mr-entity/com-mr-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-mr-parent.iml" filepath="$PROJECT_DIR$/com-mr-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-mr-service/com-mr-service.iml" filepath="$PROJECT_DIR$/com-mr-service/com-mr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-mr-web/com-mr-web.iml" filepath="$PROJECT_DIR$/com-mr-web/com-mr-web.iml" />
+    </modules>
+  </component>
+</project>

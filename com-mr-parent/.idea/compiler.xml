@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-mr-web" />
+        <module name="com-mr-service" />
+        <module name="com-mr-entity" />
+        <module name="com-mr-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-mr-dao" target="1.8" />
+      <module name="com-mr-entity" target="1.8" />
+      <module name="com-mr-parent" target="1.8" />
+      <module name="com-mr-service" target="1.8" />
+      <module name="com-mr-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com-mr-dao" options="-parameters" />
+      <module name="com-mr-entity" options="-parameters" />
+      <module name="com-mr-parent" options="" />
+      <module name="com-mr-service" options="-parameters" />
+      <module name="com-mr-web" options="-parameters" />
+    </option>
+  </component>
+</project>
