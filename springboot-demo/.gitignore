@@ -4,7 +4,7 @@
 .classpath
 .project
 .settings     
- ##filter databfile¡¢sln file##
+ ##filter databfileï¿½ï¿½sln file##
 *.mdb  
 *.ldb  
 *.sln   
@@ -27,6 +27,7 @@
 *.via
 *.tmp
 *.err
+*.iml
 # OS generated files #  
 .DS_Store  
 .DS_Store?  
